@@ -3,7 +3,8 @@
 Install all dependencies that projects are using
 
 ***Npm:***
-    `npm install`
+   
+   `npm install`
 
 ***Yarn:***
     
