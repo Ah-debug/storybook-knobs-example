@@ -3,15 +3,18 @@
 Install all dependencies that projects are using
 
 ***Npm:***
-    npm install
+    `npm install`
 
 ***Yarn:***
-    yarn add
+    
+`yarn add`
 
 #### After that
 
 ***Npm:***
-    npm run start
+
+`npm run start`
 
 ***Yarn:***
-    yarn start
+
+`yarn start`
