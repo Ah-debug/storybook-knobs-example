@@ -1,5 +1,7 @@
 ## Run the Storybook knobs demo
 
+![ A test image](https://i.imgur.com/hVc7APC.gif)
+
 Install all dependencies that projects are using
 
 ***Npm:***
